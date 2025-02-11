@@ -59,6 +59,3 @@ This project is for **educational purposes only**.
 **Do not use it for malicious activities.** Unauthorized keylogging is illegal.
 
 ---
-
-
-Falls du noch Änderungen möchtest, sag einfach Bescheid! 🚀😊
