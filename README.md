@@ -19,8 +19,8 @@ A simple keylogger implemented using JavaScript and a Chrome extension. It captu
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/N3LL4-01/CSS-Keylogger.git
-cd CSS-Keylogger
+git clone https://github.com/N3LL4-01/Keylogger.git
+cd Keylogger
 ```
 
 ### **2️⃣ Install Dependencies**
