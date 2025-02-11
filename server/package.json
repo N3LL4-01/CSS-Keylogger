@@ -1,0 +1,14 @@
+{
+    "name": "css-keylogger-server",
+    "version": "1.0.0",
+    "description": "Ein einfacher Node.js Keylogger-Server",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.3",
+      "helmet": "^7.0.0"
+    }
+  }
+  
