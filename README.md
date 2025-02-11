@@ -3,7 +3,7 @@
 https://github.com/user-attachments/assets/95017ba2-44fd-421e-bf8d-5d2acacb311d
   
 
-# 🛠 CSS Keylogger
+# 🛠 Chrome - Keylogger
 
 A simple keylogger implemented using JavaScript and a Chrome extension. It captures keystrokes and sends them to a local server.
 
